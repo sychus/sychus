@@ -2,15 +2,15 @@
 
 :hospital: **Professionally**: I'm senior (:tophat:) software Engineer.
 knowledge:
-- 🔧 [Nodejs](https://nodejs.org/en/) + 5 years
-- 🔧 [Mongodb](https://www.mongodb.com/) + 5 years
-- 🔧 [Angular](https://angular.io/) + 5 years
-- 🔧 [Express](https://expressjs.com/) + 5 years
-- 🔧 [Github](https://github.com/) + 7 years
-- 🔧 Javascript + 10 years
-- 🔧 Typescript + 5 years
-- 🔧 Agile Scrum framework + 7 years
-- :fire: [FHIR](http://fhir.org/) + 3 years
+- 🔧 [Nodejs](https://nodejs.org/en/)
+- 🔧 [Mongodb](https://www.mongodb.com/)
+- 🔧 [Angular](https://angular.io/)
+- 🔧 [Express](https://expressjs.com/)
+- 🔧 [Github](https://github.com/)
+- 🔧 Javascript
+- 🔧 Typescript
+- 🔧 Agile Scrum framework
+- :fire: [FHIR](http://fhir.org/)
 
 :briefcase: **Managment experience**
 - General director of health information and communication systems (2019 - preset).
@@ -32,7 +32,10 @@ knowledge:
 
 - 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - present)
 
-## Social Networks
+## Links where you can find me! 
+[LinkedIn](https://www.linkedin.com/in/hhfernandez/)  
+[Twitter](https://twitter.com/sychusnqn)  
+[Email](mailto:hfernandez@neuquen.gov.ar)  
 
 ## Github Usage ~ Status 
 ![Sychus github stats](https://github-readme-stats.vercel.app/api?username=sychus&show_icons=true&hide_border=true&theme=dark&private=true)   
@@ -40,7 +43,4 @@ knowledge:
 ## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychus&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
-## Links where you can find me! 
-:pushpin: &nbsp; [LinkedIn](https://www.linkedin.com/in/hhfernandez/)  
-:pushpin: &nbsp; [Twitter](https://twitter.com/sychusnqn)  
-:pushpin: &nbsp; [Email](mailto:hfernandez@neuquen.gov.ar)  
+
