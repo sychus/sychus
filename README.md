@@ -22,6 +22,12 @@ knowledge:
 - SemiSenior full stack developer (2010 - 2015) Hospital Provincial Neuquén (Dr. Castro Rendón)
 - semiSenior full stack developer (2007 - 2010) Petrobras S.A
 
+:school: **Professor in Computer Science at the National University of Comahue**
+- Operating Systems
+- Automation and Scripting
+- Introduction to system administration
+- System administration
+
 🎉 **For Fun**:
 - 💻 Code
 - :running: Run
@@ -32,15 +38,13 @@ knowledge:
 
 - 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - present)
 
-## Links where you can find me! 
-[LinkedIn](https://www.linkedin.com/in/hhfernandez/)  
-[Twitter](https://twitter.com/sychusnqn)  
-[Email](mailto:hfernandez@neuquen.gov.ar)  
-
 ## Github Usage ~ Status 
 ![Sychus github stats](https://github-readme-stats.vercel.app/api?username=sychus&show_icons=true&hide_border=true&theme=dark&private=true)   
 
 ## Language Usage ~ Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sychus&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true)
 
-
+## Links where you can find me! 
+[LinkedIn](https://www.linkedin.com/in/hhfernandez/)  
+[Twitter](https://twitter.com/sychusnqn)  
+[Email](mailto:hfernandez@neuquen.gov.ar)
