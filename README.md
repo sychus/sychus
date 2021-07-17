@@ -48,4 +48,4 @@ knowledge:
 ## Links where you can find me! 
 [LinkedIn](https://www.linkedin.com/in/hhfernandez/)  
 [Twitter](https://twitter.com/sychus)  
-[Email](mailto:hfernandez@neuquen.gov.ar)
+[Email](mailto:sychusdev@gmail.com)
