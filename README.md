@@ -13,13 +13,14 @@ knowledge:
 - :fire: [FHIR](http://fhir.org/)
 
 :briefcase: **Managment experience**
-- Team lead of software engineering department (dec 2020 - present).
+- Team lead of software engineering department (Dec 2020 - Ago 2021).
 - General director of health information and communication systems (2019 - dec 2020).
 - Software Architecture Director (2016-2019) Ministry of Health.
 - Head. of the software engineering department (2015-2016) Ministry of Health.
 
 :computer: **Developer experience**
-- Senior full stack developer (2015 - present) Ministry of Health.
+- Senior Software Engineer at BairesDev (Ago 2021 - present)
+- Senior full stack developer (2015 - Ago 2021) Ministry of Health.
 - SemiSenior full stack developer (2010 - 2015) Hospital Provincial Neuquén (Dr. Castro Rendón)
 - semiSenior full stack developer (2007 - 2010) Petrobras S.A
 
@@ -37,6 +38,7 @@ knowledge:
 
 ## Current Projects
 
+- Design Interactive (from BairesDev)
 - 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - present)
 
 ## Github Usage ~ Status 
