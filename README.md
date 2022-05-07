@@ -19,6 +19,7 @@ knowledge:
 - Head. of the software engineering department (2015-2016) Ministry of Health.
 
 :computer: **Developer experience**
+- Senior Software Engineer at Blackthorn.io (Abr 2022 - present)
 - Senior Software Engineer at BairesDev (Ago 2021 - present)
 - Senior full stack developer (2015 - Ago 2021) Ministry of Health.
 - SemiSenior full stack developer (2010 - 2015) Hospital Provincial Neuquén (Dr. Castro Rendón)
