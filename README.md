@@ -7,6 +7,7 @@ knowledge:
 - 🔧 [Angular](https://angular.io/)
 - 🔧 [Express](https://expressjs.com/)
 - 🔧 [Github](https://github.com/)
+- 🔧 [Nestjs](https://nestjs.com/)
 - 🔧 Javascript
 - 🔧 Typescript
 - 🔧 Agile Scrum framework
@@ -39,8 +40,9 @@ knowledge:
 
 ## Current Projects
 
-- Design Interactive (from BairesDev)
-- 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - present)
+- Blackthorn.io, payments team (2022 - present)
+- Design Interactive, from BairesDev (2021-2022)
+- 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - 2021)
 
 ## Github Usage ~ Status 
 ![Sychus github stats](https://github-readme-stats.vercel.app/api?username=sychus&show_icons=true&hide_border=true&theme=dark&private=true)   
