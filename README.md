@@ -22,7 +22,7 @@ knowledge:
 :computer: **Developer experience**
 - Platform Technical Lead at Blackthorn.io (Oct 2022 - present)
 - Senior Software Engineer at Blackthorn.io (Abr 2022 - Oct 2022)
-- Senior Software Engineer at BairesDev (Ago 2021 - present)
+- Senior Software Engineer at BairesDev (Ago 2021 - Abr 2022)
 - Senior full stack developer (2015 - Ago 2021) Ministry of Health.
 - SemiSenior full stack developer (2010 - 2015) Hospital Provincial Neuquén (Dr. Castro Rendón)
 - semiSenior full stack developer (2007 - 2010) Petrobras S.A
