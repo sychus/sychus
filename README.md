@@ -39,7 +39,7 @@ knowledge:
 - :soccer: Soccer
 - :books: Read
 
-## Current Projects
+## Projects
 
 - Blackthorn.io (2022 - present)
 - Design Interactive, from BairesDev (2021-2022)
