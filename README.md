@@ -25,7 +25,7 @@ knowledge:
 - Senior Software Engineer at BairesDev (Ago 2021 - Abr 2022)
 - Senior full stack developer (2015 - Ago 2021) Ministry of Health.
 - SemiSenior full stack developer (2010 - 2015) Hospital Provincial Neuquén (Dr. Castro Rendón)
-- semiSenior full stack developer (2007 - 2010) Petrobras S.A
+- SemiSenior full stack developer (2007 - 2010) Petrobras S.A
 
 :school: **Professor in Computer Science at the National University of Comahue**
 - Operating Systems
@@ -42,7 +42,7 @@ knowledge:
 ## Projects
 
 - Blackthorn.io (2022 - present)
-- Design Interactive, from BairesDev (2021-2022)
+- Design Interactive (2021-2022)
 - 🗻 ANDES: Aplicaciones Neuquinas de Salud (2015 - 2021)
 
 ## Github Usage ~ Status 
